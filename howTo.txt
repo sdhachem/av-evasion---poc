@@ -1,0 +1,8 @@
+Source code :
+Program.cs
+msf_https_443_www.google.com.ps1
+
+
+Release :
+covid.txt  = msf_https_443_www.google.com.ps1 obfuscated
+covid.exe  = Program.cs compiled                        
